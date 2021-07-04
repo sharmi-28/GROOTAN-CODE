@@ -654,15 +654,6 @@ Finally transpile your react app by running:
 ```cmd
 $ npm run-script watch
 ```
-Now you can go to you browser http://localhost:8080/ and if this appears on your browser:
-
-# Welcome to React Front End Served by Spring Boot
-
-Then you have successfully integrated react js and spring boot. Full stack application. If you make changes in your app webpack should be able to update those changes, and all you have to do is to restart your browser.
-
-I know this was a long tutorial I will make it in parts and will create a Part 2 of this as soon as i can . So that you will now Learn React.
-
-Thank you for taking your time in reading this article.
 
 !!END
 
